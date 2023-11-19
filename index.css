@@ -1,0 +1,52 @@
+.sin{
+text-align: center;
+border-radius: 12px;
+border: solid 0.5px;
+display: block;
+width: fit-content;
+margin: 20px auto;
+background-color: rgb(71, 66, 150);
+box-shadow: 10px 10px 15px 2px rgb(34, 34, 49);
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.name, .pwd{
+    display:block;
+    margin: 5px auto;
+    border-radius: 12px;
+    border: solid 0.06px;
+    padding-left: 10px;
+width: 265px;
+height: 25px;
+background-color: rgb(41, 45, 85);
+}
+.input{
+    min-width: 530px;
+    text-align: center;
+}
+.botton{
+    width: 129px;
+    height: 29px;
+    border:solid 0.56px ;
+    border-radius: 12px;
+    background-color: gainsboro;
+    margin-bottom: 5px;
+}
+.botton:hover{
+    width: 130px;
+    height: 30px;
+    border:solid 0.56px;
+    border-radius: 12px;
+    background-color: rgb(41, 45, 85);
+
+
+}
+.input, .ToRead{
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+
